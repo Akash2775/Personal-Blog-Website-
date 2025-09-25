@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcome to My Personal Blog",
+      "excerpt": "This is my first blog post where I introduce myself and share what you can expect from this blog.",
+      "content": "Welcome to my personal blog! I'm excited to share my thoughts, experiences, and insights with you. This blog will cover topics ranging from technology and web development to personal growth and life experiences. I believe in the power of sharing knowledge and connecting with like-minded individuals. Stay tuned for regular updates and feel free to reach out if you have any questions or suggestions for future posts.",
+      "author": "Blog Author",
+      "date": "2024-01-15",
+      "category": "Personal",
+      "tags": ["welcome", "introduction", "blogging"],
+      "image": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=800&h=400&fit=crop"
+    },
+    {
+      "id": 2,
+      "title": "The Art of Responsive Web Design",
+      "excerpt": "Exploring the principles and best practices of creating websites that work seamlessly across all devices.",
+      "content": "Responsive web design has become an essential skill in today's multi-device world. With users accessing websites from smartphones, tablets, laptops, and desktops, it's crucial to create experiences that adapt fluidly to different screen sizes. In this post, I'll share key principles including mobile-first design, flexible grid systems, and progressive enhancement. We'll also explore CSS media queries, flexible images, and how frameworks like Bootstrap can accelerate development while maintaining design consistency.",
+      "author": "Blog Author",
+      "date": "2024-01-10",
+      "category": "Web Development",
+      "tags": ["responsive", "css", "web design", "mobile"],
+      "image": "https://images.unsplash.com/photo-1547658719-da2b51169166?w=800&h=400&fit=crop"
+    },
+    {
+      "id": 3,
+      "title": "JavaScript ES6+ Features Every Developer Should Know",
+      "excerpt": "A comprehensive guide to modern JavaScript features that will improve your code quality and development experience.",
+      "content": "JavaScript has evolved significantly with ES6 and subsequent versions, introducing powerful features that make code more readable, maintainable, and efficient. In this comprehensive guide, we'll explore arrow functions, destructuring assignment, template literals, async/await, modules, and more. These features not only reduce code verbosity but also help prevent common programming errors. Whether you're a beginner or experienced developer, mastering these modern JavaScript features will significantly improve your development workflow and code quality.",
+      "author": "Blog Author",
+      "date": "2024-01-05",
+      "category": "Programming",
+      "tags": ["javascript", "es6", "programming", "development"],
+      "image": "https://images.unsplash.com/photo-1627398242454-45a1465c2479?w=800&h=400&fit=crop"
+    },
+    {
+      "id": 4,
+      "title": "Building Better User Experiences",
+      "excerpt": "Understanding the fundamentals of UX design and how to create interfaces that users love.",
+      "content": "User experience design is about creating products that provide meaningful and relevant experiences to users. This involves the design of the entire process of acquiring and integrating the product, including aspects of branding, design, usability, and function. Good UX design focuses on understanding user needs, behaviors, and motivations through observation techniques, task analysis, and other feedback methodologies. In this post, we'll explore key UX principles, design thinking processes, and practical tips for creating interfaces that not only look great but also provide intuitive and satisfying user interactions.",
+      "author": "Blog Author",
+      "date": "2023-12-28",
+      "category": "Design",
+      "tags": ["ux", "design", "user experience", "interface"],
+      "image": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?w=800&h=400&fit=crop"
+    }
+  ]
+}
